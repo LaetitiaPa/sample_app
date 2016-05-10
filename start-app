@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/ubuntu/workspace/sample_app
+rails s -b $IP -p $PORT
